@@ -1,2 +1,2 @@
 # mocot_interact
-Multi-Objective Coordination of Thermoelectric Water Use
+Interactive results for multi-objective coordination of thermoelectric water use. Code and additional results are in a separate, private, repository.
